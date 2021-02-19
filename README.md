@@ -1,2 +1,5 @@
 # EcommerceStore
-This is Ecommerce store website template using HTML , CSS , JS , BOOTSTRAP 
+> This is a Ecommerce Store Website templete using HTML, CSS, JS, BOOTSTRAP 
+
+![](header.png)
+
